@@ -23,7 +23,7 @@ Laravel(5.4)
 
 6.open in browser and go through it 
 
-_You can also view in  heroku <a href="https://online-task.herokuapp.com/">Here</a> how it works_
+_You can also view in  heroku <a href="https://online-task.herokuapp.com/" target="_blank">Here</a> how it works_
 
  
 
